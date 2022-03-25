@@ -2,7 +2,7 @@
 
 ### Bem-vindo ao meu github!
 
-https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif
+![gato-digitando](https://user-images.githubusercontent.com/38757479/160197026-15a02799-485e-4a39-aad6-d1e8d446d300.gif)
 
 
 <!--
