@@ -2,7 +2,10 @@
 
 ### Bem-vindo ao meu github!
 
+![1634606679786](https://user-images.githubusercontent.com/38757479/160216939-2777b0b9-767c-43f4-92f4-11d183ade07d.jpeg)
+
 ![gato-digitando](https://user-images.githubusercontent.com/38757479/160197026-15a02799-485e-4a39-aad6-d1e8d446d300.gif)
+
 
 
 <!--
